@@ -18,3 +18,9 @@ Use cloning if yout going to edit it for just you or use it
 Fork if its for public use, or if you'll merge later
 
 *4.*
+To make changes in github, its rather simple and streamlined as if you use branches, you gain the ability to work on the code without damaging the main code or altering it, later merging it to the main file system
+
+*5.*
+The purpose of the pull request is to merge the branch with the main codebase. Its used to combine branches to places that are locked, to insure that all code is compatiable 
+
+*6.*
