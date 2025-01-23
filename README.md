@@ -24,3 +24,4 @@ To make changes in github, its rather simple and streamlined as if you use branc
 The purpose of the pull request is to merge the branch with the main codebase. Its used to combine branches to places that are locked, to insure that all code is compatiable 
 
 *6.*
+Issues benefit the project through the spreading of knowledge of errors and bugs. It also acts as a forum for suggestions. 
