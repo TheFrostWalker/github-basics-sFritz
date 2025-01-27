@@ -1,6 +1,10 @@
 # github-basics-sFritz
 This is a repository used to the instructions in my class. 
 
+Example of very interesting code
+```py
+loop_count = 0
+```
 ### Questions
 *1.*
 Git is the client side version control manager, where you commit and pull and clone, for various tasks, 
