@@ -25,3 +25,21 @@ The purpose of the pull request is to merge the branch with the main codebase. I
 
 *6.*
 Issues benefit the project through the spreading of knowledge of errors and bugs. It also acts as a forum for suggestions. 
+
+*7.*
+The importance of commit messages are that they show and describe what each commit did to the codebase. Making it easier to track where errors came from. More importantly _who_ they came from. Good commit messages are simple, to the point, and descriptive. 
+
+*8.*
+The benefit of using branches is that each person can copy their own version of the code to their mini-repo's, that way they can edit their code, preparing to update the main vesion but while its broken, not break the entire program.
+
+*9.*
+A readme file is where you go on a git repo, to read what the program does, and how to use it. 
+A good readme includes the following
+- Purpose
+- Instruction to use
+- Instruction to intsall
+
+*10.*
+You can _optimize_ someones elses unoptimized code. Allowing you to practice with different, more interesting codebases. 
+You can post your finished projects or code, like your arch dotfiles which are very useful to newer users 
+You can post your unfinished projects and get random strangers to help you, making the process.. maybe faster..?
